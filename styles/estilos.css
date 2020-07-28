@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
+   
+   
+}
+.header img{
+   
+    height: 70px;
+    margin-left: 50px;
+}
+ul {
+    display: inline-flex;
+    list-style: none;
+   
+  }
+.header a {
+    
+    display: flex;
+    align-items: center;
+    height: inherit;
+    margin-right: 50px;
+  }
+  body{
+    background-color: #1E7CA7;
+    padding:0 50px;
+  }
+  
